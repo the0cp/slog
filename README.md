@@ -1,0 +1,2 @@
+# slog
+Simple C++ logger
